@@ -1,3 +1,6 @@
+# NAME : Blessing Jeffrey YL
+# REG NO : 212223220014
+
 # Echoserver
 Echo server and client using python socket
 # AIM:
@@ -85,10 +88,14 @@ httpd.serve_forever()
 ```
 
 
-## OUTPUT:
-### CLIENT OUTPUT:
+## OUTPUT :
 
-### SERVER OUTPUT:
+CLIENT AND SERVER OUTPUT : 
+                                                                                                                      
+<img width="1866" height="984" alt="image" src="https://github.com/user-attachments/assets/a1f42609-6c40-4a24-8962-fa5ecc63fca0" />
+
+
+
 
 ## RESULT:
 The program is executed succesfully
